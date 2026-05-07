@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ekram Hassen
+# 👋 Hi, I'm EKIRAM AHMED HASSEN 
 
 ### 🚀 Junior Software Engineer | 2nd Year Student @ AAU
 I am a passionate developer building projects with Python and Web Technologies. I'm currently looking for freelance opportunities to solve technical problems.
