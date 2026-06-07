@@ -5,19 +5,21 @@ Passionate developer building high-performance backend systems, real-time archit
 
 ---
 
-## 🛠️ Tech Stack
-### Languages & Frameworks
-![Python](https://shields.io)
-![Java](https://shields.io)
-![JavaScript](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
 
-### Tools, Databases & DevOps
-![Git](https://shields.io)
-![Docker](https://shields.io)
-![Redis](https://shields.io)
-![VS Code](https://shields.io)
+## 🛠️ Tech Stack
+
+### 💻 Languages & Frameworks
+* 🐍 **Python** — Advanced Scripting & ML Pipelines
+* ☕ **Java** — Object-Oriented Software Design
+* 🟨 **JavaScript (ES6+)** — Scalable Asynchronous Apps
+* 🌐 **HTML5 & CSS3** — Responsive User Interfaces
+
+### ⚙️ Tools, Databases & DevOps
+* 🐙 **Git & GitHub** — Collaborative Version Control
+* 🐳 **Docker & Docker Compose** — Containerization & Deployment
+* 🔺 **Redis** — High-Performance In-Memory Caching
+* 🟦 **VS Code** — Primary Development Environment
+
 
 ---
 
