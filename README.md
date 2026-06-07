@@ -1,6 +1,6 @@
 # 👋 Hi, I'm EKIRAM AHMED HASSEN 
 
-### 🚀 Junior Software Engineer | 2nd Year Student @ AAU
+### 🚀  Software Engineer  Student @ AAU
 I am a passionate developer building projects with Python and Web Technologies. I'm currently looking for freelance opportunities to solve technical problems.
 
 - 🔭 **Focusing on:** Full-stack web development and backend logic.
