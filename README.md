@@ -6,15 +6,14 @@ Passionate developer building high-performance backend systems, real-time archit
 ---
 
 ## 🛠️ Tech Stack
-
-### 🚀 Languages & Frameworks
+### Languages & Frameworks
 ![Python](https://shields.io)
 ![Java](https://shields.io)
 ![JavaScript](https://shields.io)
 ![HTML5](https://shields.io)
 ![CSS3](https://shields.io)
 
-### ⚙️ Tools, Databases & DevOps
+### Tools, Databases & DevOps
 ![Git](https://shields.io)
 ![Docker](https://shields.io)
 ![Redis](https://shields.io)
