@@ -13,6 +13,13 @@ Passionate developer building high-performance backend systems, real-time archit
 * ☕ **Java** — Object-Oriented Software Design
 * 🟨 **JavaScript (ES6+)** — Scalable Asynchronous Apps
 * 🌐 **HTML5 & CSS3** — Responsive User Interfaces
+* node.js
+* express.js
+* C#
+* ASP.NET core
+* .net Maui
+* Reaxt
+* Nextjs
 
 ### ⚙️ Tools, Databases & DevOps
 * 🐙 **Git & GitHub** — Collaborative Version Control
