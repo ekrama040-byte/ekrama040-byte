@@ -6,9 +6,6 @@ I build software that connects practical engineering with real-world problems. M
 
 Currently contributing to software engineering projects at Zemenay Tech and iCog-Labs, while exploring scalable backend architectures, AI-driven systems, and modern application development.
 
-📍 Addis Ababa, Ethiopia
-💼 "LinkedIn" (https://www.linkedin.com/in/ekramahmedsoftware/) · "GitHub" (https://github.com/ekrama040-byte)
-
 ---
 
 Professional Experience
