@@ -106,9 +106,7 @@ Engineering Interests
 - Real-time systems and distributed applications
 - Secure software engineering
 - Full-stack product development
-
----
-
+----
 Let's Connect
 
 I'm interested in collaborating on meaningful software projects, contributing to engineering teams, and building technology that solves real-world problems.
