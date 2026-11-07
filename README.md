@@ -1,6 +1,6 @@
 Ekram Ahmed Hassen
 
-Software Engineer | Backend Systems | Full-Stack Development | AI & Intelligent Systems at iCogLab|Backend Lead at ZemenatTech |  FullStack Training IBT college of Canada
+Software Engineer | Backend Systems | Full-Stack Development | AI & Intelligent Systems at iCogLab|Backend Lead at ZemenatTech |  FullStack Training IBT college of Canada | Software Engineering at AAU
 
 I build software that connects practical engineering with real-world problems. My work spans backend development, full-stack applications, cryptographic systems, and intelligent software.
 
