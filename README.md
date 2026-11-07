@@ -7,8 +7,7 @@ I build software that connects practical engineering with real-world problems. M
 Currently contributing to software engineering projects at Zemenay Tech and iCog-Labs, while exploring scalable backend architectures, AI-driven systems, and modern application development.
 
 ---
-
-Professional Experience
+Experiances
 
 Zemenay Tech — Software Engineering
 
@@ -116,6 +115,6 @@ I'm interested in collaborating on meaningful software projects, contributing to
 
 💼 "LinkedIn" (https://www.linkedin.com/in/ekramahmedsoftware/)
 🐙 "GitHub" (https://github.com/ekrama040-byte)
-✉️ ekrama040@gmail.com
+✉️"Email" ekrama040@gmail.com
 
 Building, learning, and engineering beyond the ordinary.
