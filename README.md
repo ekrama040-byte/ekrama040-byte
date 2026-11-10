@@ -30,47 +30,45 @@ Currently driving core development across financial technology infrastructure at
 ###  Production Tech Stack & Ecosystem
 ---
 ## 🛠️ Skills & Technical Ecosystem
-
 ## 🛠️ Skills & Technical Ecosystem
 
 <p align="left">
-  <!-- Frontend Frameworks & Core -->
-  <a href="https://mozilla.org" target="_blank"><img src="https://shields.io" alt="JavaScript" /></a>
-  <a href="https://typescriptlang.org" target="_blank"><img src="https://shields.io" alt="TypeScript" /></a>
-  <a href="https://mozilla.org" target="_blank"><img src="https://shields.io" alt="HTML5" /></a>
-  <a href="https://mozilla.org" target="_blank"><img src="https://shields.io" alt="CSS3" /></a>
-  <a href="https://react.dev" target="_blank"><img src="https://shields.io" alt="React" /></a>
-  <a href="https://angular.dev" target="_blank"><img src="https://shields.io" alt="AngularJS" /></a>
-  <a href="https://vuejs.org" target="_blank"><img src="https://shields.io" alt="Vuejs" /></a>
-  <a href="https://nextjs.org" target="_blank"><img src="https://shields.io" alt="NextJs" /></a>
+  <!-- Frontend Core & Frameworks -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+  <a href="https://typescriptlang.org" target="_blank"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></a>
+  <a href="https://react.dev" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+  <a href="https://angular.dev" target="_blank"><img src="https://skillicons.dev/icons?i=angular" alt="Angular" /></a>
+  <a href="https://vuejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=vue" alt="Vuejs" /></a>
+  <a href="https://nextjs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" alt="NextJs" /></a>
   
-  <!-- Styling -->
-  <a href="https://tailwindcss.com" target="_blank"><img src="https://shields.io" alt="TailwindCSS" /></a>
-  <a href="https://sass-lang.com" target="_blank"><img src="https://shields.io" alt="Sass" /></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://shields.io" alt="Bootstrap" /></a>
+  <!-- Styling Tools -->
+  <a href="https://tailwindcss.com" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" /></a>
+  <a href="https://sass-lang.com" target="_blank"><img src="https://skillicons.dev/icons?i=sass" alt="Sass" /></a>
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" /></a>
   
-  <!-- Backend & Core Languages -->
-  <a href="https://nodejs.org" target="_blank"><img src="https://shields.io" alt="NodeJS" /></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://shields.io" alt="Express" /></a>
-  <a href="https://nestjs.com" target="_blank"><img src="https://shields.io" alt="NestJs" /></a>
-  <a href="https://djangoproject.com" target="_blank"><img src="https://shields.io" alt="Django" /></a>
-  <a href="https://go.dev" target="_blank"><img src="https://shields.io" alt="Golang" /></a>
-  <a href="https://python.org" target="_blank"><img src="https://shields.io" alt="Python" /></a>
+  <!-- Backend & Infrastructure -->
+  <a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" /></a>
+  <a href="https://expressjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=express" alt="Express" /></a>
+  <a href="https://nestjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=nestjs" alt="NestJs" /></a>
+  <a href="https://djangoproject.com" target="_blank"><img src="https://skillicons.dev/icons?i=django" alt="Django" /></a>
+  <a href="https://go.dev" target="_blank"><img src="https://skillicons.dev/icons?i=go" alt="Golang" /></a>
+  <a href="https://python.org" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="Python" /></a>
   
   <!-- Mobile & Platform -->
-  <a href="https://flutter.dev" target="_blank"><img src="https://shields.io" alt="Flutter" /></a>
-  <a href="https://dart.dev" target="_blank"><img src="https://shields.io" alt="Dart" /></a>
+  <a href="https://flutter.dev" target="_blank"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" /></a>
+  <a href="https://dart.dev" target="_blank"><img src="https://skillicons.dev/icons?i=dart" alt="Dart" /></a>
   
   <!-- Databases & Cloud Services -->
-  <a href="https://postgresql.org" target="_blank"><img src="https://shields.io" alt="PostgreSQL" /></a>
-  <a href="https://supabase.com" target="_blank"><img src="https://shields.io" alt="Supabase" /></a>
-  <a href="https://mongodb.com" target="_blank"><img src="https://shields.io" alt="MongoDB" /></a>
+  <a href="https://postgresql.org" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
+  <a href="https://supabase.com" target="_blank"><img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" /></a>
+  <a href="https://mongodb.com" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
   
   <!-- Design Tools -->
-  <a href="https://adobe.com" target="_blank"><img src="https://shields.io" alt="Photoshop" /></a>
-  <a href="https://figma.com" target="_blank"><img src="https://shields.io" alt="Figma" /></a>
+  <a href="https://adobe.com" target="_blank"><img src="https://skillicons.dev/icons?i=ps" alt="Photoshop" /></a>
+  <a href="https://figma.com" target="_blank"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>
 </p>
-
 
 ### Featured Engineering Projects
 
