@@ -42,14 +42,17 @@ Currently driving core development across financial technology infrastructure at
   <a href="https://nextjs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" alt="NextJs" /></a>
   <!-- Styling Tools -->
   <a href="https://tailwindcss.com" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" /></a>
-  <a href="https://sass-lang.com" target="_blank"><img src="https://skillicons.dev/icons?i=sass" alt="Sass" /></a>
   <a href="https://getbootstrap.com" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" /></a>
   <!-- Backend & Infrastructure -->
   <a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" /></a>
   <a href="https://expressjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=express" alt="Express" /></a>
   <a href="https://nestjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=nestjs" alt="NestJs" /></a>
-  <a href="https://djangoproject.com" target="_blank"><img src="https://skillicons.dev/icons?i=django" alt="Django" /></a>
-  <a href="https://go.dev" target="_blank"><img src="https://skillicons.dev/icons?i=go" alt="Golang" /></a>
+<a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
+</a>
+<a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank">
+  <img src="https://skillicons.dev/icons?i=dotnet" alt="ASP.NET Core" />
+</a>
   <a href="https://python.org" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="Python" /></a>
   <!-- Databases & Cloud Services -->
   <a href="https://postgresql.org" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
