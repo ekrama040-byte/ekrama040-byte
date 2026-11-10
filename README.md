@@ -31,8 +31,10 @@ Currently driving core development across financial technology infrastructure at
 ---
 ## 🛠️ Skills & Technical Ecosystem
 
+## 🛠️ Skills & Technical Ecosystem
+
 <p align="left">
-  <!-- Frontend Core & Frameworks -->
+  <!-- Frontend Frameworks & Core -->
   <a href="https://mozilla.org" target="_blank"><img src="https://shields.io" alt="JavaScript" /></a>
   <a href="https://typescriptlang.org" target="_blank"><img src="https://shields.io" alt="TypeScript" /></a>
   <a href="https://mozilla.org" target="_blank"><img src="https://shields.io" alt="HTML5" /></a>
@@ -42,12 +44,12 @@ Currently driving core development across financial technology infrastructure at
   <a href="https://vuejs.org" target="_blank"><img src="https://shields.io" alt="Vuejs" /></a>
   <a href="https://nextjs.org" target="_blank"><img src="https://shields.io" alt="NextJs" /></a>
   
-  <!-- CSS Tooling -->
+  <!-- Styling -->
   <a href="https://tailwindcss.com" target="_blank"><img src="https://shields.io" alt="TailwindCSS" /></a>
   <a href="https://sass-lang.com" target="_blank"><img src="https://shields.io" alt="Sass" /></a>
   <a href="https://getbootstrap.com" target="_blank"><img src="https://shields.io" alt="Bootstrap" /></a>
   
-  <!-- Backend & Execution Environments -->
+  <!-- Backend & Core Languages -->
   <a href="https://nodejs.org" target="_blank"><img src="https://shields.io" alt="NodeJS" /></a>
   <a href="https://expressjs.com" target="_blank"><img src="https://shields.io" alt="Express" /></a>
   <a href="https://nestjs.com" target="_blank"><img src="https://shields.io" alt="NestJs" /></a>
@@ -55,7 +57,7 @@ Currently driving core development across financial technology infrastructure at
   <a href="https://go.dev" target="_blank"><img src="https://shields.io" alt="Golang" /></a>
   <a href="https://python.org" target="_blank"><img src="https://shields.io" alt="Python" /></a>
   
-  <!-- Mobile & Platforms -->
+  <!-- Mobile & Platform -->
   <a href="https://flutter.dev" target="_blank"><img src="https://shields.io" alt="Flutter" /></a>
   <a href="https://dart.dev" target="_blank"><img src="https://shields.io" alt="Dart" /></a>
   
@@ -64,10 +66,11 @@ Currently driving core development across financial technology infrastructure at
   <a href="https://supabase.com" target="_blank"><img src="https://shields.io" alt="Supabase" /></a>
   <a href="https://mongodb.com" target="_blank"><img src="https://shields.io" alt="MongoDB" /></a>
   
-  <!-- UI/UX & Design Design -->
+  <!-- Design Tools -->
   <a href="https://adobe.com" target="_blank"><img src="https://shields.io" alt="Photoshop" /></a>
   <a href="https://figma.com" target="_blank"><img src="https://shields.io" alt="Figma" /></a>
 </p>
+
 
 ### Featured Engineering Projects
 
