@@ -7,8 +7,7 @@ I build software that connects practical engineering with real-world problems. M
 Currently contributing to software engineering projects at Zemenay Tech and iCog-Labs, while exploring scalable backend architectures, AI-driven systems, and modern application development.
 
 ---
-Experiances
-
+Experiances|Merged PR 
 Zemenay Tech — Software Engineering
 
 Working on cryptocurrency wallet development, contributing to the engineering of financial software and digital asset management systems.
@@ -16,7 +15,7 @@ Working on cryptocurrency wallet development, contributing to the engineering of
 iCog-Labs — Software Engineering Contributor
 
 Working on OpenPsi, exploring intelligent software systems and contributing to development within an AI-focused engineering environment.
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e1ab0ef5-464b-42b2-9542-14ccda6ccd86" />
+https://github.com/iCog-Labs-Dev/MetaMo/pull/30
 
 
 
