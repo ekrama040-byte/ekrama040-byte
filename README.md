@@ -61,7 +61,6 @@ Currently driving core development across financial technology infrastructure at
   <!-- Design Tools -->
   <a href="https://adobe.com" target="_blank"><img src="https://skillicons.dev/icons?i=ps" alt="Photoshop" /></a>
   <a href="https://figma.com" target="_blank"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>
-  ### 🤖 AI, LLMs & Agentic Systems
 
 <p align="left">
   <!-- Frameworks & Models -->
