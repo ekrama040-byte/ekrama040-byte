@@ -29,7 +29,46 @@ Currently driving core development across financial technology infrastructure at
 
 ###  Production Tech Stack & Ecosystem
 ---
-JavaScript TypeScript HTML5 CSS3 React AngularJS Vuejs NextJs TailwindCSS Sass Bootstrap NodeJS Express NestJs Django Golang Python PostgreSQL Flutter Dart Supabase MongoDB Photoshop Figma
+## 🛠️ Skills & Technical Ecosystem
+
+<p align="left">
+  <!-- Frontend Core & Frameworks -->
+  <a href="https://mozilla.org" target="_blank"><img src="https://shields.io" alt="JavaScript" /></a>
+  <a href="https://typescriptlang.org" target="_blank"><img src="https://shields.io" alt="TypeScript" /></a>
+  <a href="https://mozilla.org" target="_blank"><img src="https://shields.io" alt="HTML5" /></a>
+  <a href="https://mozilla.org" target="_blank"><img src="https://shields.io" alt="CSS3" /></a>
+  <a href="https://react.dev" target="_blank"><img src="https://shields.io" alt="React" /></a>
+  <a href="https://angular.dev" target="_blank"><img src="https://shields.io" alt="AngularJS" /></a>
+  <a href="https://vuejs.org" target="_blank"><img src="https://shields.io" alt="Vuejs" /></a>
+  <a href="https://nextjs.org" target="_blank"><img src="https://shields.io" alt="NextJs" /></a>
+  
+  <!-- CSS Tooling -->
+  <a href="https://tailwindcss.com" target="_blank"><img src="https://shields.io" alt="TailwindCSS" /></a>
+  <a href="https://sass-lang.com" target="_blank"><img src="https://shields.io" alt="Sass" /></a>
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://shields.io" alt="Bootstrap" /></a>
+  
+  <!-- Backend & Execution Environments -->
+  <a href="https://nodejs.org" target="_blank"><img src="https://shields.io" alt="NodeJS" /></a>
+  <a href="https://expressjs.com" target="_blank"><img src="https://shields.io" alt="Express" /></a>
+  <a href="https://nestjs.com" target="_blank"><img src="https://shields.io" alt="NestJs" /></a>
+  <a href="https://djangoproject.com" target="_blank"><img src="https://shields.io" alt="Django" /></a>
+  <a href="https://go.dev" target="_blank"><img src="https://shields.io" alt="Golang" /></a>
+  <a href="https://python.org" target="_blank"><img src="https://shields.io" alt="Python" /></a>
+  
+  <!-- Mobile & Platforms -->
+  <a href="https://flutter.dev" target="_blank"><img src="https://shields.io" alt="Flutter" /></a>
+  <a href="https://dart.dev" target="_blank"><img src="https://shields.io" alt="Dart" /></a>
+  
+  <!-- Databases & Cloud Services -->
+  <a href="https://postgresql.org" target="_blank"><img src="https://shields.io" alt="PostgreSQL" /></a>
+  <a href="https://supabase.com" target="_blank"><img src="https://shields.io" alt="Supabase" /></a>
+  <a href="https://mongodb.com" target="_blank"><img src="https://shields.io" alt="MongoDB" /></a>
+  
+  <!-- UI/UX & Design Design -->
+  <a href="https://adobe.com" target="_blank"><img src="https://shields.io" alt="Photoshop" /></a>
+  <a href="https://figma.com" target="_blank"><img src="https://shields.io" alt="Figma" /></a>
+</p>
+
 ### Featured Engineering Projects
 
 #### Enterprise Cryptocurrency Wallet — Zemenay Tech
