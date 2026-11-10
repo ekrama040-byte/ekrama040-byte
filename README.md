@@ -16,6 +16,9 @@ Working on cryptocurrency wallet development, contributing to the engineering of
 iCog-Labs — Software Engineering Contributor
 
 Working on OpenPsi, exploring intelligent software systems and contributing to development within an AI-focused engineering environment.
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e1ab0ef5-464b-42b2-9542-14ccda6ccd86" />
+
+
 
 Hackathon Challenge — Top 3 Achievement
 
