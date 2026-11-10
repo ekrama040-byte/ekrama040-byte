@@ -61,6 +61,17 @@ Currently driving core development across financial technology infrastructure at
   <!-- Design Tools -->
   <a href="https://adobe.com" target="_blank"><img src="https://skillicons.dev/icons?i=ps" alt="Photoshop" /></a>
   <a href="https://figma.com" target="_blank"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>
+  ### 🤖 AI, LLMs & Agentic Systems
+
+<p align="left">
+  <!-- Frameworks & Models -->
+  <a href="https://pytorch.org/" target="_blank"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" /></a>
+  <a href="https://www.langchain.com/" target="_blank"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" /></a>
+  <a href="https://langchain-ai.github.io/langgraph/" target="_blank"><img src="https://img.shields.io/badge/LangGraph-2F4F4F?style=for-the-badge&logo=diagram-project&logoColor=white" alt="LangGraph" /></a>
+  <!-- Agentic & LLM Architecture -->
+  <img src="https://img.shields.io/badge/Agentic_AI-Autonomous_Systems-6366F1?style=for-the-badge&logo=robot&logoColor=white" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/LLMs-Multi--Agent_Workflows-008080?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" />
+</p>
 </p>
 
 ### Featured Engineering Projects
