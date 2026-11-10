@@ -15,8 +15,7 @@ Working on cryptocurrency wallet development, contributing to the engineering of
 iCog-Labs — Software Engineering Contributor
 
 Working on OpenPsi, exploring intelligent software systems and contributing to development within an AI-focused engineering environment.
-https://github.com/iCog-Labs-Dev/MetaMo/pull/30
-
+https://github.com/iCog-Labs-Dev/MetaMo/pull/30 one of the merges PR in iCogLab opensource.
 
 
 Hackathon Challenge — Top 3 Achievement
