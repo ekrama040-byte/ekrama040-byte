@@ -2,7 +2,6 @@
 **Full-Stack Software Engineer & AI Systems Specialist**  
 *Specializing in scalable backend architectures, high-concurrency real-time engines, and cognitive AI systems.*
 ---
-
 ###  Executive Summary
 I build robust, production-grade software that bridges the gap between deep mathematical theory and practical enterprise application. My engineering expertise spans scalable backend infrastructure, real-time distributed systems, cryptographic implementations, and symbolic AI architectures. 
 
