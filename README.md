@@ -7,7 +7,6 @@
 I build robust, production-grade software that bridges the gap between deep mathematical theory and practical enterprise application. My engineering expertise spans scalable backend infrastructure, real-time distributed systems, cryptographic implementations, and symbolic AI architectures. 
 
 Currently driving core development across financial technology infrastructure at **Zemenay Tech** and pioneering intelligent agent workflows at **iCog-Labs**.
-
 ---
 
 ### Technical Leadership & Experience
