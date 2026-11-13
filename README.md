@@ -7,7 +7,6 @@ I build robust, production-grade software that bridges the gap between deep math
 
 Currently driving core development across financial technology infrastructure at **Zemenay Tech** and pioneering intelligent agent workflows at **iCog-Labs**.
 ---
-
 ### Technical Leadership & Experience
 
 #### Zemenay Tech — Backend Lead
