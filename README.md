@@ -115,7 +115,7 @@ Currently driving core development across financial technology infrastructure at
 
 I am actively open to high-impact technical roles, collaboration on scalable distributed open-source tools, and innovative full-stack enterprise challenges.
 
-*   💼 **LinkedIn:** [ekramahmedsoftware](https://linkedin.com)
+*   💼 **LinkedIn:** [ekramahmedsoftware](https://www.linkedin.com/in/ekramahmedsoftware/)
 *   🐙 **GitHub Profile:** [ekrama040-byte](https://github.com/ekrama040-byte)
 *   ✉️ **Professional Email:** ekrama040@gmail.com
 
