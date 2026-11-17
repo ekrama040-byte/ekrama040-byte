@@ -2,11 +2,13 @@
 **Full-Stack Software Engineer & AI Systems Specialist**  
 *Specializing in scalable backend architectures, high-concurrency real-time engines, and cognitive AI systems.*
 ---
+
 ###  Executive Summary
 I build robust, production-grade software that bridges the gap between deep mathematical theory and practical enterprise application. My engineering expertise spans scalable backend infrastructure, real-time distributed systems, cryptographic implementations, and symbolic AI architectures. 
 
 Currently driving core development across financial technology infrastructure at **Zemenay Tech** and pioneering intelligent agent workflows at **iCog-Labs**.
 ---
+
 ### Technical Leadership & Experience
 
 #### Zemenay Tech — Backend Lead
@@ -21,9 +23,7 @@ Currently driving core development across financial technology infrastructure at
 
 #### 🏆 Hackathon Challenge — Top 3 Finalist
 *   Secured a top-three finish out of a competitive field, demonstrating rapid problem-solving, architectural design skills, and execution under tight constraints—directly resulting in an elite engineering placement at iCog-Labs.
-
 ---
-
 ###  Production Tech Stack & Ecosystem
 ---
 ## 🛠️ Skills & Technical Ecosystem
